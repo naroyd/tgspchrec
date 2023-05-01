@@ -1,0 +1,1 @@
+start = "Hello! Send me voice or video and I return text of this"
